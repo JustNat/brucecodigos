@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Lista2
+namespace q2
 {
     class Program
     {
@@ -31,9 +31,6 @@ namespace Lista2
             if (w > media) Console.WriteLine($"{w}");
 
             Console.ReadKey();
-
-
-
         }
     }
 }
